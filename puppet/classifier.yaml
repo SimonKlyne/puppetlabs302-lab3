@@ -1,0 +1,3 @@
+- server: puppet.c.kmo-instruqt.internal
+  port: 4433
+  prefix: /classifier-api

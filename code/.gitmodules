@@ -1,0 +1,6 @@
+[submodule "environments/webapp"]
+	url = /opt/puppetlabs/server/data/puppetserver/filesync/storage/puppet-code/webapp.git
+	path = environments/webapp
+[submodule "environments/production"]
+	url = /opt/puppetlabs/server/data/puppetserver/filesync/storage/puppet-code/production.git
+	path = environments/production
